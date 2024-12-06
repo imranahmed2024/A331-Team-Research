@@ -1,21 +1,25 @@
-"574a538","2024-11-24T23:25:30Z","imranahmed2024","Remove unnecessary files"
-"3e4516d","2024-11-22T17:13:02Z","tanvirherts","Merge pull request #3 from imranahmed2024/add-analysis-script"
-"064daa7","2024-11-22T17:08:17Z","Md Tanvir Sarwar","Added statistical analysis using Pearson;s statistical method"
-"76d5e7e","2024-11-22T00:14:49Z","Md Tanvir Sarwar","Save progress before switching branches"
-"7b8f956","2024-11-21T23:57:09Z","Md Tanvir Sarwar","Merge branch 'main' of https://github.com/imranahmed2024/A331-Team-Research into add-analysis-script"
-"a29ab91","2024-11-21T23:54:36Z","imranahmed2024","Adding year vs price By Model Plot"
-"ef0d5a7","2024-11-21T23:40:19Z","imranahmed2024","Adding year vs price By Model Plot"
-"77301cc","2024-11-21T21:09:14Z","imranahmed2024","Updating git log file"
-"54a3eec","2024-11-21T21:08:02Z","imranahmed2024","Updating git log file"
-"90f6bbf","2024-11-21T21:03:57Z","imranahmed2024","Merge branch 'main' of https://github.com/imranahmed2024/A331-Team-Research"
-"89c5184","2024-11-21T20:58:36Z","imranahmed2024","Merge pull request #2 from imranahmed2024/add-analysis-script"
-"78bd224","2024-11-19T14:03:39Z","imranahmed2024","price vs mileage png generate for Assignment"
-"c02cb43","2024-11-21T20:46:02Z","Md Tanvir Sarwar","Added the one R script of applying Pearson's Statistical method, Histogram and Scatter plot of year by price"
-"bf32beb","2024-11-21T20:41:00Z","imranahmed2024","Merge branch 'add-analysis-script'"
-"5507247","2024-11-19T14:09:37Z","imranahmed2024","Histogram png for Assignment"
-"b947e2f","2024-11-19T16:35:35Z","Md Tanvir Sarwar","Resolved merge conflicts"
-"2cf941b","2024-11-19T15:47:05Z","Md Tanvir Sarwar","Add analysis and scatter plot image"
-"5c4ac3d","2024-11-19T14:09:37Z","imranahmed2024","Histogram png generate by python code for non grade assignment"
-"d77cbce","2024-11-19T14:03:39Z","imranahmed2024","price vs milage png generate by python code for non grade assignment"
-"cd7b678","2024-11-17T19:33:00Z","imranahmed2024","pushing Datasets..."
-"16463d5","2024-11-17T19:22:47Z","imranahmed2024","adding presetation"
+26b4fb5 - IMohaiminAlif, 7 days ago : Create mean_median_visualisation.R
+7a83a31 - IMohaiminAlif, 7 days ago : mean and median png
+88c8454 - Prosonjit10, 11 days ago : Create Data analysis
+65e50e4 - imranahmed2024, 11 days ago : Updating git log File....
+574a538 - imranahmed2024, 11 days ago : Remove unnecessary files
+3e4516d - tanvirherts, 13 days ago : Merge pull request #3 from imranahmed2024/add-analysis-script
+064daa7 - Md Tanvir Sarwar, 13 days ago : Added statistical analysis using Pearson;s statistical method
+76d5e7e - Md Tanvir Sarwar, 2 weeks ago : Save progress before switching branches
+7b8f956 - Md Tanvir Sarwar, 2 weeks ago : Merge branch 'main' of https://github.com/imranahmed2024/A331-Team-Research into add-analysis-script
+a29ab91 - imranahmed2024, 2 weeks ago : Adding year vs price By Model Plot
+ef0d5a7 - imranahmed2024, 2 weeks ago : Adding year vs price By Model Plot
+77301cc - imranahmed2024, 2 weeks ago : Updating git log file
+54a3eec - imranahmed2024, 2 weeks ago : Updating git log file
+90f6bbf - imranahmed2024, 2 weeks ago : Merge branch 'main' of https://github.com/imranahmed2024/A331-Team-Research
+89c5184 - imranahmed2024, 2 weeks ago : Merge pull request #2 from imranahmed2024/add-analysis-script
+78bd224 - imranahmed2024, 2 weeks ago : price vs mileage png generate for Assignment
+c02cb43 - Md Tanvir Sarwar, 2 weeks ago : Added the one R script of applying Pearson's Statistical method, Histogram and Scatter plot of year by price
+bf32beb - imranahmed2024, 2 weeks ago : Merge branch 'add-analysis-script'
+5507247 - imranahmed2024, 2 weeks ago : Histogram png for Assignment
+b947e2f - Md Tanvir Sarwar, 2 weeks ago : Resolved merge conflicts
+2cf941b - Md Tanvir Sarwar, 2 weeks ago : Add analysis and scatter plot image
+5c4ac3d - imranahmed2024, 2 weeks ago : Histogram png generate by python code for non grade assignment
+d77cbce - imranahmed2024, 2 weeks ago : price vs milage png generate by python code for non grade assignment
+cd7b678 - imranahmed2024, 3 weeks ago : pushing Datasets...
+16463d5 - imranahmed2024, 3 weeks ago : adding presetation
